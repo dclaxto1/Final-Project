@@ -9,6 +9,7 @@
    - [Model 3](#model-3)
 3. [Analysis](#analysis)
 4. [Key Findings Based on our Dataset](#key-findings)
+5. [File notes](#file-notes)
 
 
 
@@ -35,18 +36,18 @@ We created three supervised mechine learning models:
 ### Model 2 <a name="model-2"></a>
 ![image](https://github.com/dclaxto1/Final-Project/assets/128431134/5a325253-56f8-4664-afc2-b0ac8751b59d)
 
-### Model 3
+### Model 3 <a name="model-3"></a>
 ![image](https://github.com/dclaxto1/Final-Project/assets/128431134/7b96bc41-6753-4ba5-ac17-dc992f12879f)
 
 We we able to get a final best accuracy of **0.9643**
 
-## Analysis
+## Analysis <a name="analysis"></a>
 Lastly, we used Tableau to analysize and visualize our findings.<br />
 
 ![image](https://github.com/dclaxto1/Final-Project/assets/128431134/716e7a9a-d494-4caf-8f55-c435458a8abf)
 ![image](https://github.com/dclaxto1/Final-Project/assets/128431134/991ef825-d455-4985-b6b2-a76986b91caf)
 
-## Key Findings Based on our Dataset
+## Key Findings Based on our Dataset <a name="key-findings"></a>
 **Males are more likely to develop diabetes.<br />
 
 Females with hypertension have a 97% chance of developing diabetes in their lifetime.<br />
@@ -56,6 +57,16 @@ Overall, individuals with diabetes are twice as likely to have hypertension. <br
 Current AND former smokers are more likely to develop diabetes. <br />
 
 Seniors (61+) are the most vulnerable group with 22.23% of seniors having diabetes.**<br />
+
+## File notes <a name="file-notes"></a>
+The resources folder contains the csv data which we used to form dataset. <br />
+The Main_ETL.ipynb file contains our ETL code.<br />
+The Machine_Learning_Code_1.ipynb file contains the main mechine learning model code. <br />
+The Tableau Module 18.twbx contains the Tableau workbook with our visualizations
+
+
+
+
 
 
 
