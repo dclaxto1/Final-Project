@@ -48,15 +48,15 @@ Lastly, we used Tableau to analysize and visualize our findings.<br />
 ![image](https://github.com/dclaxto1/Final-Project/assets/128431134/991ef825-d455-4985-b6b2-a76986b91caf)
 
 ## Key Findings Based on our Dataset <a name="key-findings"></a>
-**Males are more likely to develop diabetes.<br />
+**Males are more likely to develop diabetes.**
 
-Females with hypertension have a 97% chance of developing diabetes in their lifetime.<br />
+**Females with hypertension have a 97% chance of developing diabetes in their lifetime.**
 
-Overall, individuals with diabetes are twice as likely to have hypertension. <br />
+**Overall, individuals with diabetes are twice as likely to have hypertension.**
 
-Current AND former smokers are more likely to develop diabetes. <br />
+**Current AND former smokers are more likely to develop diabetes.** 
 
-Seniors (61+) are the most vulnerable group with 22.23% of seniors having diabetes.**<br />
+**Seniors (61+) are the most vulnerable group with 22.23% of seniors having diabetes.**
 
 ## File notes <a name="file-notes"></a>
 The resources folder contains the csv data which we used to form dataset. <br />
