@@ -14,7 +14,7 @@
 
 
 ## ETL <a name="etl"></a>
-We gathered this data from Kaggle and transformed it using Python Pandas.<br />
+We gathered this data from Kaggle and transformed it using Python Pandas. We received the data in a raw csv file.<br />
 
 ![image](https://github.com/dclaxto1/Final-Project/assets/128431134/d85d2429-f78f-41a1-a07b-940025fa3609)
 
