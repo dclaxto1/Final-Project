@@ -42,7 +42,7 @@ We created three supervised mechine learning models:
 We we able to get a final best accuracy of **0.9643**
 
 ## Analysis <a name="analysis"></a>
-Lastly, we used Tableau to analysize and visualize our findings.<br />
+Lastly, we used Tableau to analysize and visualize the findings.<br />
 
 ![image](https://github.com/dclaxto1/Final-Project/assets/128431134/716e7a9a-d494-4caf-8f55-c435458a8abf)
 ![image](https://github.com/dclaxto1/Final-Project/assets/128431134/991ef825-d455-4985-b6b2-a76986b91caf)
