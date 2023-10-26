@@ -39,7 +39,7 @@ We created three supervised mechine learning models:
 ### Model 3 <a name="model-3"></a>
 ![image](https://github.com/dclaxto1/Final-Project/assets/128431134/7b96bc41-6753-4ba5-ac17-dc992f12879f)
 
-We we able to get a final best accuracy of **0.9643**
+We were able to get a final best accuracy of **0.9643**
 
 ## Analysis <a name="analysis"></a>
 Lastly, we used Tableau to analysize and visualize the findings.<br />
