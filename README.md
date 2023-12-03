@@ -22,7 +22,7 @@ We added a new column to contained binned aged we planned on using. <br />
 
 ![image](https://github.com/dclaxto1/Final-Project/assets/128431134/5a7f6f53-f704-4ff1-ba66-44d85c5c08a4)
 
-After finishing and transforming the data we then exported it to a sqlite database. <br />
+After finishing and transforming the data we then exported it to a sqlite database.  <br />
 
 ![image](https://github.com/dclaxto1/Final-Project/assets/128431134/de1bd81f-e63b-44db-b575-deb3f5f10ead)
 
