@@ -57,7 +57,7 @@ Lastly, we used Tableau to analysize and visualize the findings.<br />
 **Current AND former smokers are more likely to develop diabetes.** 
 
 **Seniors (61+) are the most vulnerable group with 22.23% of seniors having diabetes.**
-
+ 
 ## File notes <a name="file-notes"></a>
 The resources folder contains the csv data which we used to form dataset. <br />
 The Main_ETL.ipynb file contains our ETL code.<br />
