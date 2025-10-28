@@ -7,7 +7,7 @@
    - [Model 1](#model-1)
    - [Model 2](#model-2)    
    - [Model 3](#model-3)   
-3. [Analysis](#analysis)    
+3. [Analysis](#analysis)      
 4. [Key Findings Based on our Dataset](#key-findings)
 5. [File notes](#file-notes)
 
